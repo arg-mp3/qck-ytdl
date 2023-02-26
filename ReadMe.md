@@ -40,3 +40,6 @@ This will install the multimedia frameworks that allow container extraction/conv
 
 
 After everything is installed. Run the shellscript which will then provide a prompt to include the HTML link to the video you wish to install and enjoy :). 
+
+
+If things begin to slow down at all. Try clearing the yt-dlp system cache by entering the following outside of the script: 'yt-dlp --rm-cache-dir'
