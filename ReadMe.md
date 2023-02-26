@@ -23,19 +23,19 @@ Python is needed for yt-dlp to operate
 
 
 
-### 2. Install ['yt-dlp'](https://github.com/yt-dlp/yt-dlp) brew forumlae:
+### 3. Install ['yt-dlp'](https://github.com/yt-dlp/yt-dlp) brew forumlae:
 This will DL the yt-dlp fork
 
 `brew install yt-dlp`
 
 
-### 3. Install ['ffmpeg'](https://ffmpeg.org/) multimedia framework forumlae:
+### 4. Install ['ffmpeg'](https://ffmpeg.org/) multimedia framework forumlae:
 This will install the multimedia frameworks that allow container extraction/conversion.
 
 `brew install ffmpeg`
 
 
-### 4. Download shell script
+### 5. Download shell script
 [Repo ZIP download](https://github.com/arg-mp3/qck-ytdl/archive/refs/heads/main.zip)
 
 
