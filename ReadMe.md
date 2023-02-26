@@ -12,6 +12,7 @@ Qck-ytdl is a little script that will ectract the M4A file directly out of the A
 
 ### 1. If [Homebrew](https://brew.sh/) package manager is not installed, install it via Terminal with the supplied command: 
 Package manager dedicated to MacOS
+
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 
