@@ -18,17 +18,20 @@ Package manager dedicated to MacOS
 
 ### 2. Install Python (If you have 2.6, 2.7, or 3.2+ already, skip this):
 Python is needed for yt-dlp to operate
+
 `brew install python 3.11`
 
 
 
 ### 2. Install ['yt-dlp'](https://github.com/yt-dlp/yt-dlp) brew forumlae:
 This will DL the yt-dlp fork
+
 `brew install yt-dlp`
 
 
 ### 3. Install ['ffmpeg'](https://ffmpeg.org/) multimedia framework forumlae:
 This will install the multimedia frameworks that allow container extraction/conversion.
+
 `brew install ffmpeg`
 
 
